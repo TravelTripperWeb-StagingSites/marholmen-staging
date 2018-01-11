@@ -1,4 +1,5 @@
 {
-  "name": "24Hr room service",
-  "order": 4
+  "name": "Conference space",
+  "order": 4,
+  "hidden": false
 }

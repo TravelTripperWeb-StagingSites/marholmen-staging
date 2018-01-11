@@ -1,4 +1,5 @@
 {
-  "name": "Rooftop bar with stunning city views",
-  "order": 3
+  "name": "Conference center",
+  "order": 3,
+  "hidden": false
 }

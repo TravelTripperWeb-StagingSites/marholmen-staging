@@ -1,4 +1,5 @@
 {
-  "name": "Meeting room with hi-speed wifi & A/V equipment",
-  "order": 2
+  "name": "Bar/lounge",
+  "order": 2,
+  "hidden": false
 }

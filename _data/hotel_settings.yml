@@ -1,17 +1,16 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 59.68631
+longitude: 18.78079
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: Marholmen
+email: victor@traveltripper.com
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
+  street1: Marholmen 1
+  street2: ''
+  state: ''
+  city: Norrtalje
+  country: 
+  zip_code: '76197'
+_hotel_id: MAR889
+_portal_id: required-but-empty

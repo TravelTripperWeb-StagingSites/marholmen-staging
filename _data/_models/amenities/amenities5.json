@@ -1,4 +1,5 @@
 {
-  "name": "Laundry & Dryclean services",
-  "order": 5
+  "name": "Conference space size (feet) - 1023",
+  "order": 5,
+  "hidden": false
 }

@@ -1,4 +1,5 @@
 {
-  "name": "Fully-equiped Gym",
-  "order": 1
+  "name": "Accessible bathroom",
+  "order": 1,
+  "hidden": false
 }
