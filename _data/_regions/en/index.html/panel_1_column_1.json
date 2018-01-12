@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>About Us</h3><h2>Welcome to Marholmen</h2>"
+    "content": "<h3>marholmen</h3>\n<h2 style=\"text-align: justify;\"><span style=\"color: #181f2f; font-family: GT-Haptik-Medium; font-size: 36px; letter-spacing: normal; text-align: center; text-transform: none; vertical-align: inherit;\">Must.&nbsp;</span><span style=\"color: #181f2f; font-family: GT-Haptik-Medium; font-size: 36px; letter-spacing: normal; text-align: center; text-transform: none; vertical-align: inherit;\">Should.&nbsp;</span><span style=\"color: #181f2f; font-family: GT-Haptik-Medium; font-size: 36px; letter-spacing: normal; text-align: center; text-transform: none; vertical-align: inherit;\">Two concepts that do not exist in the island of Marholmen.</span></h2>"
   }
 ]

@@ -3,8 +3,8 @@ latitude: 59.68631
 longitude: 18.78079
 map_zoom: 12
 name: Marholmen
-email: victor@traveltripper.com
-phone_number: 001-111-1111
+email: bokning@marholmen.se
+phone_number: 0771-16 17 00
 address:
   street1: Marholmen 1
   street2: ''
@@ -14,3 +14,13 @@ address:
   zip_code: '76197'
 _hotel_id: MAR889
 _portal_id: required-but-empty
+footer_logo: Marholmen is an island in Roslagens sk&auml;rg&aring;rd only one hour's
+  drive from Stockholm. This nature's oasis is ideal for conferences, parties and
+  relaxing meetings.
+logo: <img id="1515670677710" class=" " src="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/LOGO-SMALL.jpg"
+  data-image-large="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/large_LOGO_SMALL.jpg"
+  data-image-medium="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/medium_LOGO_SMALL.jpg"
+  data-image-small="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/small_LOGO_SMALL.jpg"
+  data-image-xsmall="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/xsmall_LOGO_SMALL.jpg"
+  data-image-thumb="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/thumb_LOGO_SMALL.jpg"
+  />
