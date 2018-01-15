@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>Welcome to the island where you rule.</h3>\n<h6 style=\"text-align: justify;\">Welcome to the island where you rule.&nbsp;Marholmen is like no other place in Sweden.&nbsp;At the same moment as you crossed the bridge, a new world opens.&nbsp;An independent island for those seeking relaxation, job satisfaction or wonderful experiences.&nbsp;Our hierarchy is reversed.&nbsp;We who lead the kingdom do it for one purpose - that you as a guest will feel like a king or queen.&nbsp;Our only team is that you will never want to leave us.&nbsp;But when you do, still carry us with you even after you get home.&nbsp;</h6>"
+    "content": "<h3>Welcome to the island where you rule.</h3>\n<h6 style=\"text-align: left;\">Welcome to the island where you rule.&nbsp;Marholmen is like no other place in Sweden.&nbsp;At the same moment as you crossed the bridge, a new world opens.&nbsp;An independent island for those seeking relaxation, job satisfaction or wonderful experiences.&nbsp;Our hierarchy is reversed.&nbsp;We who lead the kingdom do it for one purpose - that you as a guest will feel like a king or queen.&nbsp;Our only team is that you will never want to leave us.&nbsp;But when you do, still carry us with you even after you get home.&nbsp;</h6>"
   }
 ]
