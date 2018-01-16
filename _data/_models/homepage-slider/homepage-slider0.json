@@ -1,7 +1,10 @@
 {
   "name": "Lead Photo",
   "image": {
-    "url": "https://d31f902anbz5po.cloudfront.net/1683/245724_1_master.jpg"
+    "url": "https://d31f902anbz5po.cloudfront.net/1683/245724_1_master.jpg",
+    "alt": "front",
+    "caption": "",
+    "description": ""
   },
   "order": 1,
   "hidden": false
