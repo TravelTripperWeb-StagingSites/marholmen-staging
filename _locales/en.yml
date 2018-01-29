@@ -15,7 +15,8 @@ en:
   dining:
     buttons:
       make_a_reservation: Make A Reservation
-      view_menu: Reserve a seat
+      view_menu: <a href="https://marholmenhotel.reztrip.com" target="_blank" rel="noopener
+        noreferrer">BOOK NOW</a>
       view_all: View All Dining Options
   offers:
     buttons:
