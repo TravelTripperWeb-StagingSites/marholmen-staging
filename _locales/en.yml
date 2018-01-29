@@ -15,8 +15,7 @@ en:
   dining:
     buttons:
       make_a_reservation: ''
-      view_menu: <a href="https://marholmencottages.reztrip.com" target="_blank" rel="noopener
-        noreferrer">BOOK NOW</a>
+      view_menu: Book
       view_all: View All Dining Options
   offers:
     buttons:
