@@ -1,14 +1,30 @@
 {
-    "title": "Big Monument",
-    "sub_title": "A must-see",
-    "category": "Sights",
-    "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
-    "image": {
-      "url": "/assets/stock_images/tower-bridge.jpg",
-      "alt": "Monument"
-    },
-    "latitude": 40.7547385,
-    "longitude": -73.97681210000002,    
-    "featured": true,
-    "order": 1
+  "title": "Paintball",
+  "sub_title": "A must-do",
+  "category": "Activities",
+  "description": "<p>Parera for trees, duck for shot and jump for life. Are you a team player? Paintball is based on the fact that the participants, divided into teams, eliminate the opponents by meeting them with paintball balls filled with color. Play paintball on our neighboring Racker, which is within walking distance of Marholmen, but is sufficiently secluded to meet only your opponents in the custom-made terrain. Paintball is a team sport that activates and unites your group. Play paintball at the swansuit or the bridal shower, together with the mate or work team.</p>\n<p>Some of the various game modes we can offer are \"Capture the Flag\", \"Elimination\" and Moose.</p>\n<p>Price: 390-650 kr / per ink VAT (312-520 kr / per ex.moms) depending on the option. My. deb.10 pers.</p>",
+  "image": {
+    "name": "maxresdefault-21",
+    "file_name": "maxresdefault-21.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/maxresdefault-21.jpg",
+    "tags": "",
+    "file_size": 156216,
+    "width": 1280,
+    "height": 720,
+    "description": "",
+    "date_added": "2018-01-29-053732",
+    "url_large": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/large_maxresdefault-21.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/medium_maxresdefault-21.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/small_maxresdefault-21.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/xsmall_maxresdefault-21.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/thumb_maxresdefault-21.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-053732/maxresdefault-21.jpg",
+    "alt": "Paintball",
+    "caption": ""
+  },
+  "latitude": 40.7547385,
+  "longitude": -73.97681210000002,
+  "featured": true,
+  "order": 2
 }
