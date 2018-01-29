@@ -1,14 +1,31 @@
 {
-    "title": "Joe's Coffee",
-    "sub_title": "Get caffeinated",
-    "featured": true,
-    "category": "Restaurants",
-    "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
-    "image": {
-      "url": "/assets/stock_images/breakfast.jpg",
-      "alt": "Joe's breakfast"
-    },
-    "latitude": 40.7517385,
-    "longitude": -73.97281210000002,    
-    "order": 1
+  "title": "Swim at Badholmen",
+  "sub_title": "Swim all year round",
+  "featured": true,
+  "category": "Activities",
+  "description": "<p>Take advantage of the Badholmen location, with its warm sun deck, its beautiful sandy beach, the wood burning sauna and a large wood-burning hot tub. Since the time of Nils and Hanna Berg, Badholmen has extended the bathing season of Marholm to the year-round bath. Winter is as current as summer, minus degrees as beautiful as plus degrees. Badholmen stands out for its name and is available to you regardless of the season.</p>\n<p>Price: 390 kr / per ink VAT (312 kr / per ex.moms) Min. deb10 people.</p>",
+  "image": {
+    "name": "Bathtube outside",
+    "file_name": "Bathtube outside.JPG",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/Bathtube-outside.JPG",
+    "tags": "gallery",
+    "file_size": 7375955,
+    "width": 4928,
+    "height": 3264,
+    "description": "",
+    "date_added": "2018-01-16-042615",
+    "url_large": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/large_Bathtube_outside.JPG",
+    "url_medium": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/medium_Bathtube_outside.JPG",
+    "url_small": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/small_Bathtube_outside.JPG",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/xsmall_Bathtube_outside.JPG",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/thumb_Bathtube_outside.JPG",
+    "git_file_name": "_assets/image_data/Bathtube outside.json",
+    "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-16-042615/Bathtube-outside.JPG",
+    "alt": "Badholmen",
+    "caption": ""
+  },
+  "latitude": 40.7517385,
+  "longitude": -73.97281210000001,
+  "order": 3
 }
