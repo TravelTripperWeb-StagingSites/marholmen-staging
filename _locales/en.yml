@@ -14,8 +14,13 @@ en:
     tonights_rate: Tonight's Rate
   dining:
     buttons:
-      make_a_reservation: <a href="https://marholmencottages.reztrip.com" target="_blank"
-        rel="noopener noreferrer">RESERVE NOW</a>
+      make_a_reservation: <img id="1517228396671" class=" " src="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/book-now.jpg"
+        width="124" height="33" data-image-large="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/large_book_now.jpg"
+        data-image-medium="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/medium_book_now.jpg"
+        data-image-small="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/small_book_now.jpg"
+        data-image-xsmall="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/xsmall_book_now.jpg"
+        data-image-thumb="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-29-071955/thumb_book_now.jpg"
+        />
       view_menu: <a href="https://marholmencottages.reztrip.com" target="_blank" rel="noopener
         noreferrer">BOOK NOW</a>
       view_all: View All Dining Options
