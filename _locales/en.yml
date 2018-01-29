@@ -14,7 +14,7 @@ en:
     tonights_rate: Tonight's Rate
   dining:
     buttons:
-      make_a_reservation: <a href="https://marholmencottages.reztrip.com/" target="_blank"
+      make_a_reservation: <a href="https://marholmenhotel.reztrip.com" target="_blank"
         rel="noopener noreferrer">RESERVE NOW</a>
       view_menu: <a href="https://marholmencottages.reztrip.com" target="_blank" rel="noopener
         noreferrer">BOOK NOW</a>
