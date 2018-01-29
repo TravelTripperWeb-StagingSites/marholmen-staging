@@ -14,7 +14,8 @@ en:
     tonights_rate: Tonight's Rate
   dining:
     buttons:
-      make_a_reservation: reserve now
+      make_a_reservation: <a href="https://marholmenhotel.reztrip.com" target="_blank"
+        rel="noopener noreferrer">RESERVE NOW</a>
       view_menu: BOOK NOW
       view_all: View All Dining Options
   offers:
