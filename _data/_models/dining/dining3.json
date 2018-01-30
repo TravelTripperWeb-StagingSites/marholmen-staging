@@ -23,5 +23,7 @@
     "alt": "dining",
     "caption": ""
   },
-  "order": 3
+  "order": 3,
+  "menu_url": "mailto:bokning@marholmen.se",
+  "reservations_url": "tel:0771-16-17-00"
 }

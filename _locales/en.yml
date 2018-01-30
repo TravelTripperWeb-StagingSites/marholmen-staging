@@ -14,8 +14,8 @@ en:
     tonights_rate: Tonight's Rate
   dining:
     buttons:
-      make_a_reservation: ''
-      view_menu: Book
+      make_a_reservation: call us
+      view_menu: email us to reserve
       view_all: View All Dining Options
   offers:
     buttons:
@@ -23,4 +23,4 @@ en:
       view_all: View All Special Offers
   attractions:
     buttons:
-      get_directions: Get Directions
+      get_directions: get direction
