@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<video autoplay loop src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" data-mce-src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" class=\" \" id=\"1516891942675\"/>"
+    "content": "<video autoplay controls muted loop src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" data-mce-src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" class=\" \" id=\"1516891942675\"/>"
   }
 ]
