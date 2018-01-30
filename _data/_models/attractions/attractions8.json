@@ -1,6 +1,6 @@
 {
   "title": "Marholmen's Marina",
-  "description": "<p>Your boat is deserted between the buoy and the bridge to create a good place for anyone who comes to the boat and wants to land with us. On our docks you can endure to eat, swim, play in our large playground, stay overnight or play playful with our varied range of activities. You can, for example, play boule, tennis, adventure golf or swim in our bays. If you come to Marholmen, you can cross and bounce through the beautiful scenery of Roslagens archipelago. That's something everyone should experience.</p>\n<p>&nbsp;</p>\n<p>Marholmens Marina has two docks, a floating bridge and a fixed dock. The float bridge is best suited for guests staying over the day as it is the fixed bridge that has access to electricity. Mooring the boat between the jetty and the jetty, during the high season you register in our caf&eacute; in the Grosshandlarg&aring;rden which number your boj has. During the rest of the year you will report to Marholmens reception. We sell drinks, ice cream, sausage, waffles, candy etc. in our caf&eacute; and various items in our reception.</p>",
+  "description": "<p>Your boat is deserted between the buoy and the bridge to create a good place for anyone who comes to the boat and wants to land with us. On our docks you can endure to eat, swim, play in our large playground, stay overnight or play playful with our varied range of activities. You can, for example, play boule, tennis, adventure golf or swim in our bays. If you come to Marholmen, you can cross and bounce through the beautiful scenery of Roslagens archipelago. That's something everyone should experience.</p>\n<p>Marholmens Marina has two docks, a floating bridge and a fixed dock. The float bridge is best suited for guests staying over the day as it is the fixed bridge that has access to electricity. Mooring the boat between the jetty and the jetty, during the high season you register in our caf&eacute; in the Grosshandlarg&aring;rden which number your boj has. During the rest of the year you will report to Marholmens reception. We sell drinks, ice cream, sausage, waffles, candy etc. in our caf&eacute; and various items in our reception.</p>",
   "order": 8,
   "latitude": 57.9506798,
   "longitude": 11.5565667,
@@ -26,5 +26,6 @@
     "caption": ""
   },
   "featured": true,
-  "category": "Activities"
+  "category": "Activities",
+  "sub_title": "A must experience"
 }
