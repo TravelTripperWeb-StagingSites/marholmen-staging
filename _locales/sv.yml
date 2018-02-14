@@ -1,7 +1,9 @@
 ---
-en:
+sv:
   header:
     book_now_button: Book Now
+    language: Language
+    language_name: Swedish
   footer:
     address_header: Address
     contact_header: Contact
