@@ -1,7 +1,25 @@
 {
   "name": "Exterior",
   "photos": [
-
+    {
+      "name": "Marholmen hotel buildning",
+      "file_name": "Marholmen hotel buildning.JPG",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/Marholmen-hotel-buildning.JPG",
+      "tags": "",
+      "file_size": 5298384,
+      "width": 4928,
+      "height": 3264,
+      "description": "",
+      "date_added": "2018-03-14-082646",
+      "url_large": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/large_Marholmen_hotel_buildning.JPG",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/medium_Marholmen_hotel_buildning.JPG",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/small_Marholmen_hotel_buildning.JPG",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/xsmall_Marholmen_hotel_buildning.JPG",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/thumb_Marholmen_hotel_buildning.JPG",
+      "git_file_name": "_assets/image_data/Marholmen hotel buildning.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-03-14-082646/Marholmen-hotel-buildning.JPG"
+    }
   ],
   "description": ""
 }
