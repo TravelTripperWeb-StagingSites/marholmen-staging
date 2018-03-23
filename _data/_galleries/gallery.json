@@ -57,6 +57,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-02-15-083610/thumb_Slider_2.jpg",
       "git_file_name": "_assets/image_data/Slider 2.json",
       "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-02-15-083610/Slider-2.jpg"
+    },
+    {
+      "name": "Spa bubbel tavelvägg",
+      "file_name": "Spa bubbel tavelvägg.jpg",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/Spa-bubbel-tavelv-gg.jpg",
+      "tags": "",
+      "file_size": 662578,
+      "width": 1049,
+      "height": 1522,
+      "description": "",
+      "date_added": "2018-01-30-103946",
+      "url_large": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/large_Spa_bubbel_tavelv%C3%A4gg.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/medium_Spa_bubbel_tavelv%C3%A4gg.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/small_Spa_bubbel_tavelv%C3%A4gg.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/xsmall_Spa_bubbel_tavelv%C3%A4gg.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/thumb_Spa_bubbel_tavelv%C3%A4gg.jpg",
+      "git_file_name": "_assets/image_data/Spa bubbel tavelvägg.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103946/Spa-bubbel-tavelv-gg.jpg"
     }
   ],
   "description": ""
