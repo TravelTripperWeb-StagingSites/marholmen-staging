@@ -95,6 +95,25 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-101129/thumb_2018-01-30_2029182.jpg",
       "git_file_name": "_assets/image_data/2018-01-30_2029182.json",
       "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-101129/2018-01-30-2029182.jpg"
+    },
+    {
+      "name": "summer feelings",
+      "file_name": "summer feelings.jpg",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/summer-feelings.jpg",
+      "tags": "",
+      "file_size": 349659,
+      "width": 1534,
+      "height": 1024,
+      "description": "",
+      "date_added": "2018-01-30-090000",
+      "url_large": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/large_summer_feelings.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/medium_summer_feelings.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/small_summer_feelings.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/xsmall_summer_feelings.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/thumb_summer_feelings.jpg",
+      "git_file_name": "_assets/image_data/summer feelings.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-090000/summer-feelings.jpg"
     }
   ],
   "description": ""
