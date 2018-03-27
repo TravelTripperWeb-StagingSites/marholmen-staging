@@ -4,6 +4,10 @@ plugins_dir:
   - _plugins-core
   - _plugins
 
+i18n_dir:
+  - _ttio_templates/express-multi/locales
+  - _locales
+
 layouts_dir:
   - _ttio_templates/bedrock/_layouts
   - _ttio_templates/express-multi/layouts
