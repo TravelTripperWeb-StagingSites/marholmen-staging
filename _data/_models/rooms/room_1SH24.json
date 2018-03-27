@@ -1,0 +1,53 @@
+{
+  "name_localized": {
+    "en": "Superior Seaview"
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "\"Calm down in our Superior room with Sea View. All our Superior rooms are 24 sq m in size. The rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our Superior rooms have veranda or balcony. Our Superior rooms also inclued soft bathrobes and slippers.  \r\n\r\nDouble or twinbeds; Seaview; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers.\r\n\r\n"
+  },
+  "amenities": [
+    {
+      "name_localized": "Desk"
+    },
+    {
+      "name_localized": "Water kettle"
+    },
+    {
+      "name_localized": "2 Tea bags"
+    },
+    {
+      "name_localized": "Private bathroom"
+    }
+  ],
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/245889_3_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246788_2_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246792_3_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246797_3_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "1SH24",
+  "order": 3
+}

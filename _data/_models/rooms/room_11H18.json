@@ -1,0 +1,41 @@
+{
+  "name_localized": {
+    "en": "Standard"
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "\"Stay relaxed in our standard rooms with garden view. All our stnadard rooms has veranda or balcony.\r\nThe rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer, shower\"\r\n"
+  },
+  "amenities": [
+    {
+      "name_localized": "Desk"
+    },
+    {
+      "name_localized": "Private bathroom"
+    }
+  ],
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246777_2_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246787_2_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246785_3_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "11H18",
+  "order": 1
+}

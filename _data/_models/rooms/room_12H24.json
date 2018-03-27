@@ -1,0 +1,53 @@
+{
+  "name_localized": {
+    "en": "Superior "
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "\"Enjoy your stay in a superior room. All our superior rooms are 24 sq m in size\r\nThe rooms have garden view and are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our superior rooms have veranda or balcony. Our superior rooms also inclued soft  bathrobes and slippers.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\"\r\n"
+  },
+  "amenities": [
+    {
+      "name_localized": "Desk"
+    },
+    {
+      "name_localized": "Water kettle"
+    },
+    {
+      "name_localized": "2 Tea bags"
+    },
+    {
+      "name_localized": "Private bathroom"
+    }
+  ],
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/245888_3_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246778_2_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246845_3_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246846_3_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "12H24",
+  "order": 2
+}

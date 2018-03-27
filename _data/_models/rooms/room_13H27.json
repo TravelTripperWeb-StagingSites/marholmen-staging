@@ -1,0 +1,47 @@
+{
+  "name_localized": {
+    "en": "De Luxe "
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "\"Rest in our De luxe rooms. All our De luxe rooms are Corner rooms and are 27 sq m in size. The rooms are located inte the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our De luxe rooms have veranda or balcony. The De luxe rooms also include soft bathrobes, slippers and Coffee/Tea maker.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\".\r\n"
+  },
+  "amenities": [
+    {
+      "name_localized": "Desk"
+    },
+    {
+      "name_localized": "Water kettle"
+    },
+    {
+      "name_localized": "2 Tea bags"
+    },
+    {
+      "name_localized": "Private bathroom"
+    }
+  ],
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/245890_2_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246794_2_yankee_large.JPG"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1526/246847_1_yankee_large.JPG"
+    }
+  ],
+  "reztrip_room_id": "13H27",
+  "order": 4
+}
