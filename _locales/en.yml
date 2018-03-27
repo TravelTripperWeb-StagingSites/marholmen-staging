@@ -26,3 +26,6 @@ en:
   attractions:
     buttons:
       get_directions: get direction
+  carousels:
+    next: ""
+    previous:  ""

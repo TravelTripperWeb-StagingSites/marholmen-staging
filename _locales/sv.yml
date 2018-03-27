@@ -26,3 +26,6 @@ sv:
   attractions:
     buttons:
       get_directions: Hitta hit
+  carousels:
+    next: ""
+    previous:  ""
