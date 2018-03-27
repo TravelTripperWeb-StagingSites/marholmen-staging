@@ -27,5 +27,7 @@ sv:
     buttons:
       get_directions: Hitta hit
   carousels:
-    next: ""
-    previous:  ""
+    next: ''
+    previous: ''
+  rooms:
+    room_details_header: Rumdetaljer
