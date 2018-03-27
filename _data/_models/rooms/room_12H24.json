@@ -11,20 +11,36 @@
     "en": "\"Enjoy your stay in a superior room. All our superior rooms are 24 sq m in size\r\nThe rooms have garden view and are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our superior rooms have veranda or balcony. Our superior rooms also inclued soft  bathrobes and slippers.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\"\r\n",
     "sv": "Roslagens natur ska kännas i varje utandning på Marholmen. Våra Superior  rum med trädgårdsutsikt är 24 kvm och har antingen en veranda eller en balkong. Rummen är belägna i Marholmens huvudbyggnad, där frukosten serveras och Mareld spa finns. I våra Superior rum ingår även badrock och tofflor.\r\n\r\nDubbel eller twinbeds, trädgårdsutsikt, frukost; wifi; 48 tums TV; kabel TV; trägolv; garderob; hårfön och dusch; badrock; tofflor."
   },
-  "amenities": [
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    }
-  ],
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Water kettle"
+      },
+      {
+        "name": "2 Tea bags"
+      },
+      {
+        "name": "Private bathroom"
+      }
+    ],
+    "sv": [
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Vattenkokare"
+      },
+      {
+        "name": "Tepåsar"
+      },
+      {
+        "name": "Privat badrum"
+      }
+    ]
+  },
   "images": [
     {
       "caption": "",

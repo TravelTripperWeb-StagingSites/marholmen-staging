@@ -11,20 +11,36 @@
     "en": "\"Rest in our De luxe rooms. All our De luxe rooms are Corner rooms and are 27 sq m in size. The rooms are located inte the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our De luxe rooms have veranda or balcony. The De luxe rooms also include soft bathrobes, slippers and Coffee/Tea maker.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\".\r\n",
     "sv": "Roslagens natur ska kännas i varje utandning på Marholmen. Våra De luxe rum med trädgårdsutsikt är  27 kvm och har antingen en veranda eller en balkong. Rummen är belägna i Marholmens huvudbyggnad, där frukosten serveras och Mareld spa finns. I våra De luxe rum ingår även badrock och tofflo amt kaffe/vattenkokare.\r\n\r\nDubbel eller twinbeds, trädgårdsutsikt, frukost; wifi; 48 tums TV; kabel TV; trägolv; garderob; hårfön, dusch, badrock, tofflor, kaffe/vattenkokare."
   },
-  "amenities": [
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    },
-    {
-      "name_localized": null
-    }
-  ],
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Water kettle"
+      },
+      {
+        "name": "2 Tea bags"
+      },
+      {
+        "name": "Private bathroom"
+      }
+    ],
+    "sv": [
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Vattenkokare"
+      },
+      {
+        "name": "Tepåsar"
+      },
+      {
+        "name": "Privat badrum"
+      }
+    ]
+  },
   "images": [
     {
       "caption": "",
