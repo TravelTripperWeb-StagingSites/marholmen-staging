@@ -1,19 +1,22 @@
 {
   "name_localized": {
-    "en": "Standard"
+    "en": "Standard",
+    "sv": "Standard"
   },
   "short_description_localized": {
-    "en": ""
+    "en": "",
+    "sv": ""
   },
   "description_localized": {
-    "en": "\"Stay relaxed in our standard rooms with garden view. All our stnadard rooms has veranda or balcony.\r\nThe rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer, shower\"\r\n"
+    "en": "\"Stay relaxed in our standard rooms with garden view. All our stnadard rooms has veranda or balcony.\r\nThe rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\n\r\nDouble or twinbeds; garden view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer, shower\"\r\n",
+    "sv": "Roslagens natur ska kännas i varje utandning på Marholmen. Våra Standard rum med trädgårdsutsikt är 18 kvm och har antingen en veranda eller en balkong. Rummen är belägna i Marholmens huvudbyggnad, där frukosten serveras och Mareld spa finns.\r\n\r\n\r\nDubbel eller twinbeds, trädgårdsutsikt, frukost; wifi; 48 tums TV; kabel TV; trägolv; garderob; hårfön och dusch.\r\n"
   },
   "amenities": [
     {
-      "name": "Desk"
+      "name_localized": null
     },
     {
-      "name": "Private bathroom"
+      "name_localized": null
     }
   ],
   "images": [

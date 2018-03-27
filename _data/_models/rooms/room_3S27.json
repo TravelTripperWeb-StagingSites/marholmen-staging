@@ -1,25 +1,28 @@
 {
   "name_localized": {
-    "en": "De Luxe with Seaview"
+    "en": "De Luxe with Seaview",
+    "sv": "De Luxe med Havsutsikt"
   },
   "short_description_localized": {
-    "en": ""
+    "en": "",
+    "sv": ""
   },
   "description_localized": {
-    "en": "\"Settle back in a De luxe room with Sea View. All our De luxe rooms are Corner rooms and are 27 sq m in size. The rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our De luxe rooms have veranda or balcony. the de luxe rooms also include soft bathrobes, slippers and Coffee/Tea maker.\r\n\r\nDouble or twinbeds; Sea view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\".\r\n\r\n"
+    "en": "\"Settle back in a De luxe room with Sea View. All our De luxe rooms are Corner rooms and are 27 sq m in size. The rooms are located in the main building of Marholmen where breakfast is served every morning and included in the room rate.\r\nAll our De luxe rooms have veranda or balcony. the de luxe rooms also include soft bathrobes, slippers and Coffee/Tea maker.\r\n\r\nDouble or twinbeds; Sea view; free breakfast; wifi; 48 tums TV; cabel channels; wooden floor; wardrobe; hair dryer; shower, bathrobe and slippers\".\r\n\r\n",
+    "sv": "Roslagens natur ska kännas i varje utandning på Marholmen. Våra De luxe rum med havsutsikt är 27 kvm och har antingen en veranda eller en balkong. Rummen är belägna i Marholmens huvudbyggnad, där frukosten serveras och Mareld spa finns. I våra De luxe rum ingår även badrock och tofflor samt kaffe/vattenkokare.\r\n\r\nDubbel eller twinbeds, havsutsikt, frukost; wifi; 48 tums TV; kabel TV; trägolv; garderob; hårfön, dusch, badrock och tofflor."
   },
   "amenities": [
     {
-      "name": "Desk"
+      "name_localized": null
     },
     {
-      "name": "Water kettle"
+      "name_localized": null
     },
     {
-      "name": "2 Tea bags"
+      "name_localized": null
     },
     {
-      "name": "Private bathroom"
+      "name_localized": null
     }
   ],
   "images": [
