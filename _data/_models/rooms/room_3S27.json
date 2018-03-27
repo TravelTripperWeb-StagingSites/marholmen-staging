@@ -10,24 +10,16 @@
   },
   "amenities": [
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "Desk"
     },
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "Water kettle"
     },
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "2 Tea bags"
     },
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "Private bathroom"
     }
   ],
   "images": [

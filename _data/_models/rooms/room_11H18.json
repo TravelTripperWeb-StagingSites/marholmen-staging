@@ -10,14 +10,10 @@
   },
   "amenities": [
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "Desk"
     },
     {
-      "name_localized": {
-        "en": "a"
-      }
+      "name": "Private bathroom"
     }
   ],
   "images": [
