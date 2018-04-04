@@ -6,7 +6,7 @@ en:
     language_name: English
   footer:
     address_header: Address
-    contact_header: Contact
+    contact_header: Contact!
     phone_label: T
     email_label: E
     newsletter_header: Newsletter
@@ -27,5 +27,5 @@ en:
     buttons:
       get_directions: get direction
   carousels:
-    next: ""
-    previous:  ""
+    next: ''
+    previous: ''
