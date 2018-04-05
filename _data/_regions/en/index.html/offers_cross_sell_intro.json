@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h5 style=\"text-align: left;\">&nbsp;</h5>\n<h3>AN USUAL ISLAND... JUST 30 METERS FROM THE MAINLAND</h3>\n<p><video id=\"1517320187378\" class=\" \" src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\" height=\"600\"></video></p>"
+    "content": "<h5 style=\"text-align: left;\">&nbsp;</h5>\n<h3>AN USUAL ISLAND... JUST 30 METERS FROM THE MAINLAND</h3>\n<p class=\"responsive-video-container\"><video id=\"1517320187378\" class=\" \" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-25-095058/marholmen-lang-1080p-32mbps-ny.mp4\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\" height=\"600\"></video></p>"
   }
 ]
