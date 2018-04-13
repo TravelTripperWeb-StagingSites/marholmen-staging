@@ -14,17 +14,17 @@ address:
   zip_code: '76197'
 _hotel_id: MARHOT
 _portal_id: marholmen
-_ttweb_plugins_version: "v2"
+_ttweb_plugins_version: v2
 default_currency: SEK
 footer_logo: Marholmen &auml;r en &ouml; i Roslagens sk&auml;rg&aring;rd bara en timmes
   bilresa fr&aring;n Stockholm. Naturens oas &auml;r idealisk f&ouml;r konferenser,
   fester och avkopplande m&ouml;ten.
-logo: <img id="1515670677710" class=" " src="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/LOGO-SMALL.jpg"
-  data-image-large="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/large_LOGO_SMALL.jpg"
-  data-image-medium="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/medium_LOGO_SMALL.jpg"
-  data-image-small="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/small_LOGO_SMALL.jpg"
-  data-image-xsmall="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/xsmall_LOGO_SMALL.jpg"
-  data-image-thumb="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-11-063756/thumb_LOGO_SMALL.jpg"
+logo: <img id="1523631040560" class=" " src="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/LOGO-Medium.jpg"
+  data-image-large="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/large_LOGO_Medium.jpg"
+  data-image-medium="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/medium_LOGO_Medium.jpg"
+  data-image-small="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/small_LOGO_Medium.jpg"
+  data-image-xsmall="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/xsmall_LOGO_Medium.jpg"
+  data-image-thumb="//cdn.staging-traveltripper.info/site-assets/32_553_696/media/2018-04-13-105037/thumb_LOGO_Medium.jpg"
   />
 footer_last_column: <img id="1517326749259" class=" " src="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103902/de-Luxe-room-detail.jpg"
   width="180" height="271" data-image-large="//cdn.traveltripper.io/site-assets/32_846_10951/media/2018-01-30-103902/large_de_Luxe_room_detail.jpg"
